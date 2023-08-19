@@ -21,3 +21,8 @@
 
 /* Debounce reduces chatter (unintended double-presses) - set 0 if debouncing is not needed */
 #define DEBOUNCE 5
+
+/* Vial stuff */
+#define VIAL_KEYBOARD_UID {0xFD, OxC4, OxE0, Ox12, 0x93, 0x1C, 0x2B, 0x9A}
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 0 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 1 }
